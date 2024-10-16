@@ -48,6 +48,11 @@
   display: none !important;
 }
 
+video {
+  border-radius: 10px;
+  
+}
+
 .markdown-body a {
   background-color: transparent;
   color: #4493f8;
